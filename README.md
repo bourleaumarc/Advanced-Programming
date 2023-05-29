@@ -1,4 +1,4 @@
-#  Creating a interactive dashboard to help consumers find their dream wristwatch - Advanced Programming Project, made by Julian Changanaqui and Marc Bourleau 
+#  Interactive dashboard to help consumers find their dream wristwatch - Advanced Programming Project
 Our main objective for this university project was to build a Tkinter's dashboard to help consumers find their dream watch. As the wealth of information on the internet continues to expand, it's becoming increasingly challenging for consumers to find their dream swiss wristwatch. Therefore, we have scraped the website Watchbase and created a user-friendly interface where consumers can filter watches based on the watch characteristic, such as diameter, color, etc... 
 
 The structure of the project is as follows:
@@ -20,3 +20,5 @@ Selenium - version 4.9.1
 Tqdm - version 4.65.0
 Pillow - version 9.5.0
 Python - version 3.9
+
+# **made by Julian Changanaqui and Marc Bourleau, students of MsC in Business Analytics, HEC Lausanne **
