@@ -1,6 +1,20 @@
 #  Creating a interactive dashboard to help consumers find their dream wristwatch - Advanced Programming Project, made by Julian Changanaqui and Marc Bourleau 
 Our main objective for this university project was to build a Tkinter's dashboard to help consumers find their dream watch. As the wealth of information on the internet continues to expand, it's becoming increasingly challenging for consumers to find their dream swiss wristwatch. Therefore, we have scraped the website Watchbase and created a user-friendly interface where consumers can filter watches based on the watch characteristic, such as diameter, color, etc... 
 
+The structure of the project is as follows:
+
+1. images_scraping.py: code to scrape all the images. The output is the folder Watches_Images that contains all the images scrapped. 
+2. watch_text.py: cod eto scrape all the text characteristics of the watches. The output is the watch_text.csv
+3. Mapping.py: we map all the images to the text characteristics. The output is data_with_mages.csv 
+4. Tkinter's interface: code to build the Tkinter's GUI 
+5. Report 
+
+
+
+
+
+
+
 In order to successfully run the project, this is the packages used and their version: 
 
 Tkinter - version 8.5.9
