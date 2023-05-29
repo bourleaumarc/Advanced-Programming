@@ -1,5 +1,5 @@
-#  Interactive dashboard to help consumers find their dream wristwatch - Advanced Programming Project
-Our main objective for this university project was to build a Tkinter's dashboard to help consumers find their dream watch. As the wealth of information on the internet continues to expand, it's becoming increasingly challenging for consumers to find their dream swiss wristwatch. Therefore, we have scraped the website Watchbase and created a user-friendly interface where consumers can filter watches based on the watch characteristic, such as diameter, color, etc... 
+#  Creating a user-interface for watch selection - Advanced Programming Project
+Our main objective for this university project was to build a Tkinter's dashboard to help consumers find their dream watch. As the wealth of information on the internet continues to expand, it's becoming increasingly challenging for consumers to find their dream swiss wristwatch. Therefore, we have **scraped** the website Watchbase and created a user-friendly interface where consumers can filter watches based on the watch characteristic, such as diameter, color, etc... 
 
 The structure of the project is as follows:
 
