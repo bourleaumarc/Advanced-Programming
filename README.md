@@ -3,7 +3,7 @@ Our main objective for this university project was to build a Tkinter's dashboar
 
 The structure of the project is as follows:
 
-1. images_scraping.py: code to scrape all the images. The output is the folder 1.1 Watches_Images that contains all the images scrapped. 
+1. images_scraping.py: code to scrape all the images. The output is the folder 1.1 Watches_Images that contains all the images scrapped (we will only upload one image as an example)
 2. watch_text.py: cod eto scrape all the text characteristics of the watches. The output is the 2.1 watch_text.csv
 3. mapping.py: we map all the images to the text characteristics. The output is 3.1 data_with_mages.csv 
 4. Tkinter's interface: code to build the Tkinter's GUI 
