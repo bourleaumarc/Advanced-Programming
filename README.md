@@ -21,4 +21,4 @@ Tqdm - version 4.65.0
 Pillow - version 9.5.0
 Python - version 3.9
 
-# made by Julian Changanaqui and Marc Bourleau, students of MsC in Business Analytics, HEC Lausanne 
+# made by Julian Changanaqui and Marc Bourleau, students of MSc in Business Analytics, HEC Lausanne 
