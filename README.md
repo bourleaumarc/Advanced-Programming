@@ -3,4 +3,11 @@ Our main objective for this university project was to build a Tkinter's dashboar
 
 In order to successfully run the project, this is the packages used and their version: 
 
-• Tkinter - version 8.5.9 • Numpy - version 1.24.3 • Pandas - version 2.0.1 • Matplotlib - version 3.7.1 • Selenium - version 4.9.1 • Tqdm - version 4.65.0 • Pillow - version 9.5.0 • Python - version 3.9 
+Tkinter - version 8.5.9
+Numpy - version 1.24.3
+Pandas - version 2.0.1
+Matplotlib - version 3.7.1
+Selenium - version 4.9.1
+Tqdm - version 4.65.0
+Pillow - version 9.5.0
+Python - version 3.9
