@@ -7,7 +7,7 @@ The structure of the project is as follows:
 2. watch_text.py: cod eto scrape all the text characteristics of the watches. The output is the 2.1 watch_text.csv
 3. mapping.py: we map all the images to the text characteristics. The output is 3.1 data_with_mages.csv 
 4. Tkinter's interface: code to build the Tkinter's GUI 
-5. Report 
+5. Report: explanation of the project in detail 
 
 
 
