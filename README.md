@@ -10,7 +10,7 @@ The structure of the project is as follows:
 5. Report: explanation of the project in detail
 
 
-In order to successfully run the project, this is the packages used and their version: 
+In order to successfully run the project, those are the packaged used:
 
 Tkinter - version 8.5.9
 Numpy - version 1.24.3
